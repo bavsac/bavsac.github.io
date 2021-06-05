@@ -66,6 +66,9 @@ a > .material-icons {
   color: #d2d2d2;
   font-size: 40px;
 }
+a > .material-icons::cue {
+  opacity: 90%;
+}
 a {
   position: relative;
   left: 10px;
