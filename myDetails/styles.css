@@ -214,3 +214,7 @@ img {
   align-items: center;
   border: 20px solid transparent;
 }
+
+.clickAdd {
+  color: #f5db70;
+}
