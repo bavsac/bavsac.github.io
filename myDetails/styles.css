@@ -61,7 +61,7 @@ body {
   right: 0;
   cursor: pointer;
 }
-.container:hover {
+.menu:hover {
   color: #f5db70;
 }
 
