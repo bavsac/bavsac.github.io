@@ -91,7 +91,8 @@ img {
   padding-bottom: 32px;
 }
 .about-me-text {
-  padding: 15%;
+  padding-left: 10%;
+  padding-right: 10%;
   text-align: center;
   color: #d2d2d2;
   font-family: 'Courier New', Courier, monospace;
