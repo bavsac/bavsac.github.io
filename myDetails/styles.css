@@ -66,8 +66,8 @@ a > .material-icons {
   color: #d2d2d2;
   font-size: 40px;
 }
-a > .material-icons::cue {
-  opacity: 90%;
+a > .material-icons:hover {
+  color: #8a8a8a;
 }
 a {
   position: relative;
