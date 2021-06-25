@@ -140,3 +140,7 @@ a {
   border-bottom: 1px solid transparent;
   font-family: 'Courier New', Courier, monospace;
 }
+
+.links_list{
+  padding-bottom: 1em;
+}
